@@ -22,9 +22,9 @@ public class calculadora {
         int multiplicacao = multiplicacao(a, b);
 
         System.out.println("somar: " + somar);
-        System.out.println("somar: " + subtracao);
-        System.out.println("somar: " + divisao);
-        System.out.println("somar: " + multiplicacao);
+        System.out.println("subtracao: " + subtracao);
+        System.out.println("divisao: " + divisao);
+        System.out.println("multiplicacao: " + multiplicacao);
     }
 
     public static int somar(int a, int b){
